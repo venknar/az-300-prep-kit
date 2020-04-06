@@ -16,11 +16,11 @@
 
   - [Alerting on Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
 
-- [ ] __analyze alerts across subscription__
+- [X] __analyze alerts across subscription__
 
   - [Alerts across subscriptions](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
 
-- [ ] __analyze metrics across subscription__
+- [X] __analyze metrics across subscription__
 
   - [Alerts across subscriptions](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
 
