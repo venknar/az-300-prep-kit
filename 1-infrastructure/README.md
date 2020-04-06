@@ -12,7 +12,7 @@
 
   - [Lynda video](https://www.lynda.com/Azure-tutorials/Create-baseline-resources/782139/5010821-4.html)
 
-- [ ] __create and test alerts__
+- [X] __create and test alerts__
 
   - [Alerting on Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
 
