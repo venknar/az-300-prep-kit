@@ -98,13 +98,13 @@
 
 [Section Documentation on Azure Docs](https://docs.microsoft.com/en-us/azure/virtual-machines/)
 
-- [ ] __configure high availability__
+- [X] __configure high availability__
 
   - [Linux High Availability](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/availability)
 
   - [Windows High Availability](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/availability)
 
-- [ ] __configure monitoring, networking, storage, and virtual machine size__
+- [X] __configure monitoring, networking, storage, and virtual machine size__
 
   - [Monitoring Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/monitor)
 
@@ -122,11 +122,11 @@
 
   - [VM Sizes Windows](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes)
 
-- [ ] __implement dedicated hosts__
+- [X] __implement dedicated hosts__
 
   - [Dedicated Hosts](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/dedicated-hosts)
 
-- [ ] __deploy and configure scale sets__
+- [X] __deploy and configure scale sets__
 
   - [Scale Sets](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
 
