@@ -164,19 +164,19 @@
 
 ## Implement solutions that use virtual machines (VM)
 
-- [ ] __provision VMs__
+- [X] __provision VMs__
 
   - [Linux VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal)
 
-- [ ] __create Azure Resource Manager templates__
+- [X] __create Azure Resource Manager templates__
 
   - [Create ARM](https://docs.microsoft.com/en-us/azure/azure-resource-manager/template-tutorial-create-first-template?tabs=azure-powershell)
 
-- [ ] __configure Azure Disk Encryption for VMs__
+- [X] __configure Azure Disk Encryption for VMs__
 
   - [Encrypt disk on Linux VM](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-overview)
 
-- [ ] __implement Azure Backup for VMs__
+- [X] __implement Azure Backup for VMs__
 
   - [Backup Azure VM](https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction)
 
