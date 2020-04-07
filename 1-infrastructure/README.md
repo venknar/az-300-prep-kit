@@ -210,21 +210,21 @@
 
 ## Create connectivity between virtual networks
 
-- [ ] __create and configure VNET peering__
+- [X] __create and configure VNET peering__
 
   - [VNet Peering](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview)
 
-- [ ] __create and configure VNET to VNET connections__
+- [X] __create and configure VNET to VNET connections__
 
   - [VNet to VNet connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal)
 
   - [Point to Site connections](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-point-to-site-resource-manager-portal)
 
-- [ ] __verify virtual network connectivity__
+- [X] __verify virtual network connectivity__
 
   - [Check and Troubleshoot](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-connectivity-problem-between-vms)
 
-- [ ] __create virtual network gateway__
+- [X] __create virtual network gateway__
 
   - [Create Gateway](https://docs.microsoft.com/en-us/azure/vpn-gateway/create-routebased-vpn-gateway-portal)
 
