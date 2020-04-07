@@ -24,31 +24,31 @@
 
   - [Alerts across subscriptions](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-overview#alerts-experience)
 
-- [ ] __create action groups__
+- [X] __create action groups__
 
   - [Create action group](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/action-groups#create-an-action-group-by-using-the-azure-portal)
 
-- [ ] __monitor for unused resources__
+- [X] __monitor for unused resources__
 
   - [Use Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/)
 
-- [ ] __monitor spend__
+- [X] __monitor spend__
 
   - [Monitor spend](https://docs.microsoft.com/en-us/azure/cost-management/cost-mgt-alerts-monitor-usage-spending)
 
-- [ ] __report on spend__
+- [X] __report on spend__
 
   - [Using Cloudyn](https://docs.microsoft.com/en-us/azure/cost-management/tutorial-manage-costs)
 
-- [ ] __utilize Log Search query functions__
+- [X] __utilize Log Search query functions__
 
   - [Log Queries](https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/get-started-queries)
 
-- [ ] __view alerts in Azure Monitor logs__
+- [X] __view alerts in Azure Monitor logs__
 
   - [Create and vew alerts](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-log)
 
-- [ ] __visualize diagnostics data using Azure Monitor Workbooks__
+- [X] __visualize diagnostics data using Azure Monitor Workbooks__
 
   - [Monitor Workbooks](https://docs.microsoft.com/en-us/azure/azure-monitor/app/usage-workbooks)
 
