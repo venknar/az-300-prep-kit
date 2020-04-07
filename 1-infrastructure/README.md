@@ -184,13 +184,13 @@
 
 [Labs](https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs?storyId=story://9922213a-f2ea-4ee4-a1b0-84330541e15d/)
 
-- [ ] __configure private and public IP addresses__
+- [X] __configure private and public IP addresses__
 
   - [Private IP](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-static-private-ip-arm-pportal)
 
   - [Public IP](https://ocs.microsoft.com/en-us/azure/virtual-network/associate-public-ip-address-vm)
 
-- [ ] __network routes, network interface, subnets, and virtual network__
+- [X] __network routes, network interface, subnets, and virtual network__
 
   - [Traffic Routing](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview)
 
@@ -200,11 +200,11 @@
 
   - [Virtual Network](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
 
-- [ ] __create and configure Network Security Groups__
+- [X] __create and configure Network Security Groups__
 
   - [Network Security Groups](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview)
 
-- [ ] __create and configure Application Security Groups__
+- [X] __create and configure Application Security Groups__
 
   - [Application Security Groups](https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#application-security-groups)
 
