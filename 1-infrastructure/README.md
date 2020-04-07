@@ -136,27 +136,27 @@
 
 - [Labs](https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs?storyId=story://a2a9a5bd-399b-4631-a44a-ef3b51250a65/)
 
-- [ ] __modify Azure Resource Manager template__
+- [X] __modify Azure Resource Manager template__
 
   - [ARM Templates](https://docs.microsoft.com/en-us/azure/azure-resource-manager/template-deployment-overview)
 
-- [ ] __configure location of new VMs__
+- [X] __configure location of new VMs__
 
   - [Move VM to another region](https://docs.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-migrate)
 
-- [ ] __configure VHD template__
+- [X] __configure VHD template__
 
   - [VHD Template](https://docs.microsoft.com/en-us/azure/marketplace/cloud-partner-portal/virtual-machine/cpp-deploy-json-template)
 
-- [ ] __deploy from template__
+- [X] __deploy from template__
 
   - [Deploy from portal](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-manager-quickstart-create-templates-use-the-portal)
 
-- [ ] __save a deployment as an Azure Resource Manager template__
+- [X] __save a deployment as an Azure Resource Manager template__
 
   - [Deployment as ARM](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy-portal)
 
-- [ ] __deploy Windows and Linux VMs__
+- [X] __deploy Windows and Linux VMs__
 
   - [Linux](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/create-ssh-secured-vm-from-template)
 
