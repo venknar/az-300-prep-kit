@@ -4,11 +4,11 @@
 
 [Section Documentation on Azure Docs](https://docs.microsoft.com/en-gb/azure/azure-monitor/)
 
-- [ ] __configure diagnostic settings on resources__
+- [X] __configure diagnostic settings on resources__
 
   - [Diagnostic settings](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings)
 
-- [ ] __create baseline for resources__
+- [X] __create baseline for resources__
 
   - [Lynda video](https://www.lynda.com/Azure-tutorials/Create-baseline-resources/782139/5010821-4.html)
 
@@ -58,39 +58,39 @@
 
 - [Labs](https://handsonlabs.microsoft.com/handsonlabs/SelfPacedLabs?storyId=story://995cacc5-0f7e-45fe-849a-d05bfd147fc8/)
 
-- [ ] __configure network access to the storage account__
+- [X] __configure network access to the storage account__
 
   - [Restrict network access to a resource](https://docs.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources#restrict-network-access-to-a-resource)
 
-- [ ] __create and configure storage account__
+- [X] __create and configure storage account__
 
   - [Create storage account](https://docs.microsoft.com/en-us/azure/storage/common/storage-quickstart-create-account?tabs=azure-portal)
 
-- [ ] __generate shared access signature__
+- [X] __generate shared access signature__
 
   - [Shared access signature](https://docs.microsoft.com/en-us/azure/storage/common/storage-sas-overview)
 
-- [ ] __implement Azure AD authentication for storage__
+- [X] __implement Azure AD authentication for storage__
 
   - [AD Access](https://docs.microsoft.com/en-us/azure/storage/common/storage-auth-aad)
 
-- [ ] __install and use Azure Storage Explorer__
+- [X] __install and use Azure Storage Explorer__
 
   - [Storage Explorer](https://docs.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?tabs=windows)
 
-- [ ] __manage access keys__
+- [X] __manage access keys__
 
   - [Storage Access Keys](https://docs.microsoft.com/en-gb/rest/api/storageservices/authorize-with-shared-key)
 
-- [ ] __monitor activity log by using Azure Monitor logs__
+- [X] __monitor activity log by using Azure Monitor logs__
 
   - [Activity Log](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/activity-logs-overview)
 
-- [ ] __implement Azure storage replication__
+- [X] __implement Azure storage replication__
 
   - [Storage replication and redundancy](https://docs.microsoft.com/en-us/azure/storage/common/storage-redundancy)
 
-- [ ] __implement Azure storage account failover__
+- [X] __implement Azure storage account failover__
 
   - [Storage account failover](https://docs.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance)
 
