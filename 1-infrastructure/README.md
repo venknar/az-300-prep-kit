@@ -238,25 +238,25 @@
 
   - When using TXT records, you need to configure the following at your registrar: TXT record (type), Alias (@), Destination (Microsoft generated code) and TTL (Time To Live standard)   . When using MX records, you need to configure the following: MX record (type), Alias (@), Destination (Microsoft generated code), TTL (Time to Live standard), Priority (Microsoft   auto generated)
 
-- [ ] __configure Azure AD Identity Protection, Azure AD Join__
+- [X] __configure Azure AD Identity Protection, Azure AD Join__
 
   - [Identity Protection](https://docs.microsoft.com/en-us/azure/active-directory/identity-protection/overview-identity-protection)
 
   - [AD Join](https://docs.microsoft.com/en-us/azure/active-directory/devices/azureadjoin-plan)
 
-- [ ] __configure self-service password reset__
+- [X] __configure self-service password reset__
 
   - [Pw reset](https://docs.microsoft.com/en-us/azure/active-directory/authentication/quickstart-sspr)
 
-- [ ] __implement conditional access policies__
+- [X] __implement conditional access policies__
 
   - [Policies](https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/plan-conditional-access)
 
-- [ ] __manage multiple directories__
+- [X] __manage multiple directories__
 
   - [Multi-directories](https://docs.microsoft.com/en-us/azure/active-directory/users-groups-roles/licensing-directory-independence)
 
-- [ ] __perform an access review__
+- [X] __perform an access review__
 
   - [Access Review](https://docs.microsoft.com/en-us/azure/active-directory/governance/access-reviews-overview)
 
