@@ -262,20 +262,20 @@
 
 ## Implement and manage hybrid identities
 
-- [ ] __install and configure Azure AD Connect__
+- [X] __install and configure Azure AD Connect__
 
   - [AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect)
 
-- [ ] __configure federation and single sign-on__
+- [X] __configure federation and single sign-on__
 
   - [SSO](https://docs.microsoft.com/en-us/azure/active-directory/manage-apps/what-is-single-sign-on)
 
   - [Federation](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-fed)
 
-- [ ] __manage and troubleshoot Azure AD Connect__
+- [X] __manage and troubleshoot Azure AD Connect__
 
   - [Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-health-operations)
 
-- [ ] __troubleshoot password sync and writeback__
+- [X] __troubleshoot password sync and writeback__
 
   - [Password writeback](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-sspr-writeback)
