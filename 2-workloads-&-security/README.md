@@ -72,31 +72,31 @@
 
 ## Integrate on-premises network with Azure virtual network
 
-- [ ] __create and configure Azure VPN Gateway__
+- [X] __create and configure Azure VPN Gateway__
 
   - [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/connect-on-premises-network-with-vpn-gateway/index)
 
   - [Azure Docs](https://docs.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways)
 
-- [ ] __create and configure site to site VPN__
+- [X] __create and configure site to site VPN__
 
   - [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/connect-on-premises-network-with-vpn-gateway/2-connect-on-premises-networks-to-azure-using-site-to-site-vpn-gateways)
 
   - [Azure Docs](https://docs.microsoft.com/en-us/azure/vpn-gateway/site-to-site-about)
 
-- [ ] __configure Express Route__
+- [X] __configure Express Route__
 
   - [Azure Docs](https://docs.microsoft.com/en-us/azure/expressroute/)
 
-- [ ] __configure Virtual WAN__
+- [X] __configure Virtual WAN__
 
   - [Virtual WAN](https://docs.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about)
 
-- [ ] __verify on-premises connectivity__
+- [X] __verify on-premises connectivity__
 
   - [Azure Docs](https://docs.microsoft.com/en-us/azure/network-watcher/network-watcher-diagnose-on-premises-connectivity)
 
-- [ ] __manage on-premises connectivity with Azure__
+- [X] __manage on-premises connectivity with Azure__
 
   - TODO: Add Link
 
