@@ -6,13 +6,13 @@
 
 - [Intro to Azure Backup](https://docs.microsoft.com/en-us/azure/backup/backup-introduction-to-azure-backup)
 
-- [ ] __migrate servers using Azure Migrate__
+- [X] __migrate servers using Azure Migrate__
 
   - [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/design-your-migration-to-azure/index)
 
   - [Documentaiton](https://docs.microsoft.com/en-us/azure/migrate/migrate-services-overview)
 
-- [ ] __backup and restore data__
+- [X] __backup and restore data__
 
   - [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/backup-restore-azure-sql/index)
 
