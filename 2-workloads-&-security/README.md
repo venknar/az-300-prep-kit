@@ -102,48 +102,48 @@
 
 ## Implement Multi-Factor Authentication (MFA)
 
-- [ ] __configure user accounts for MFA__
+- [X] __configure user accounts for MFA__
 
   - [Azure Docs](https://docs.microsoft.com/en-us/azure/active-directory/authentication/howto-mfa-mfasettings)
 
-- [ ] __configure fraud alerts__
+- [X] __configure fraud alerts__
 
   - [Packtpub](https://subscription.packtpub.com/book/networking_and_servers/9781838829025/16/ch16lvl1sec149/configuring-fraud-alerts)
 
-- [ ] __configure bypass options__
+- [X] __configure bypass options__
 
   - [Packtpub](https://subscription.packtpub.com/book/networking_and_servers/9781838829025/16/ch16lvl1sec150/configuring-bypass-options)
 
-- [ ] __configure trusted IPs__
+- [X] __configure trusted IPs__
 
   - [Lynda Video](https://www.lynda.com/Azure-tutorials/Configure-trusted-IPs-app-passwords/585262/639244-4.html)
 
-- [ ] __configure verification methods__
+- [X] __configure verification methods__
 
   - [Azure Docs](https://docs.microsoft.com/en-us/azure/active-directory/user-help/multi-factor-authentication-end-user-manage-settings)
 
 ## Manage role-based access control (RBAC)
 
-- [ ] __create a custom role__
+- [X] __create a custom role__
 
   - [Azure Docs](https://docs.microsoft.com/en-us/azure/role-based-access-control/custom-roles)
 
-- [ ] __configure access to Azure resources by assigning roles__
+- [X] __configure access to Azure resources by assigning roles__
 
   - [Azure Docs](https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal)
 
-- [ ] __configure management access to Azure__
+- [X] __configure management access to Azure__
 
   - [Azure Docs](https://docs.microsoft.com/en-us/azure/role-based-access-control/conditional-access-azure-management)
 
-- [ ] __troubleshoot RBAC__
+- [X] __troubleshoot RBAC__
 
   - [Azure Docs](https://docs.microsoft.com/en-us/azure/role-based-access-control/troubleshooting)
 
-- [ ] __implement Azure policies__
+- [X] __implement Azure policies__
 
   - [Azure Docs](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
 
-- [ ] __assign RBAC roles N/A__
+- [X] __assign RBAC roles N/A__
 
   - [Azure Docs](https://docs.microsoft.com/en-us/azure/role-based-access-control/quickstart-assign-role-user-portal)
