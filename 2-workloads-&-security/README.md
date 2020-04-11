@@ -20,29 +20,29 @@
 
 ## Configure serverless computing
 
-- [ ] __create and manage objects__
+- [X] __create and manage objects__
 
   - [Documentation](https://azure.microsoft.com/en-us/overview/serverless-computing/)
 
-- [ ] __manage a Logic App resource__
+- [X] __manage a Logic App resource__
 
   - [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/route-and-process-data-logic-apps/index)
 
   - [Documentation](https://docs.microsoft.com/en-us/azure/logic-apps/)
 
-- [ ] __manage Azure Function app settings__
+- [X] __manage Azure Function app settings__
 
   - [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/create-serverless-logic-with-azure-functions/index)
 
   - [Documentation](https://docs.microsoft.com/en-us/azure/azure-functions/)
 
-- [ ] __manage Event Grid__
+- [X] __manage Event Grid__
 
   - [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/4-choose-event-grid)
 
   - [Documentation](https://docs.microsoft.com/en-us/azure/event-grid/overview)
 
-- [ ] __manage Service Bus__
+- [X] __manage Service Bus__
 
   - [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/choose-a-messaging-model-in-azure-to-connect-your-services/3-choose-azure-storage-queues)
 
