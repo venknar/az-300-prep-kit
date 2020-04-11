@@ -2,21 +2,21 @@
 
 ## Create web apps by using PaaS
 
-- [ ] __create an Azure App Service Web App__
+- [X] __create an Azure App Service Web App__
 
   - [Create Web App Quickstarts](https://azure.microsoft.com/en-us/get-started/web-app/)
 
   - [Create ASP.NET Core Web App](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-dotnet)
 
-- [ ] __create documentation for the API__
+- [X] __create documentation for the API__
 
   - [Use Developer Portal to create API documentation](https://docs.microsoft.com/en-us/azure/api-management/api-management-howto-developer-portal-customize)
 
-- [ ] __create an App Service Web App for containers__
+- [X] __create an App Service Web App for containers__
 
   - [Web App for contianers tutorial](https://azure.microsoft.com/en-us/try/app-service/containers/)
 
-- [ ] __create an App Service background task by using WebJobs__
+- [X] __create an App Service background task by using WebJobs__
 
   - [Create WebJob](https://docs.microsoft.com/en-us/azure/app-service/webjobs-create)
 
@@ -24,23 +24,23 @@
 
   - [Run background tasks with WebJobs in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/webjobs-create)
 
-- [ ] __enable diagnostics logging__
+- [X] __enable diagnostics logging__
 
   - [Enable diagnostics logging for apps in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/troubleshoot-diagnostic-logs)
 
 ## Design and develop apps that run in containers
 
-- [ ] __configure diagnostic settings on resources__
+- [X] __configure diagnostic settings on resources__
 
   - [Create diagnostic setting to collect platform logs and metrics in Azure](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-settings)
 
-- [ ] __create a container image by using a Docker file__
+- [X] __create a container image by using a Docker file__
 
   - [Build custom docker image and use private docker registry](https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-custom-docker-image)
 
   - [Tutorial: Build and deploy container images in the cloud with Azure Container Registry Tasks](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-tutorial-quick-task)
 
-- [ ] __create an Azure Kubernetes Service__
+- [X] __create an Azure Kubernetes Service__
 
   - [Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using the Azure portal](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough-portal)
 
@@ -48,18 +48,18 @@
 
   - [Quickstart: Deploy an Azure Kubernetes Service (AKS) cluster using an Azure Resource Manager template](https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough-rm-template)
 
-- [ ] __publish an image to the Azure Container Registry__
+- [X] __publish an image to the Azure Container Registry__
 
   - [Push your first image to a private Docker container registry using the Docker CLI](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-docker-cli)
 
   - [Create an Azure Container Registry and publish a docker image](https://enginepit.com/create-an-azure-container-registry-and-publish-a-docker-image/)
 
-- [ ] __implement an application that runs on an Azure Container Instance__
+- [X] __implement an application that runs on an Azure Container Instance__
 
   - [Azure Container Instances documentation](https://docs.microsoft.com/en-us/azure/container-instances/)
 
   - [Quickstart: Deploy a container instance in Azure using the Azure portal](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart-portal)
 
-- [ ] __manage container settings by using code__
+- [X] __manage container settings by using code__
 
   - TODO: Add link
