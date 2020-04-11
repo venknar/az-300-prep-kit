@@ -54,17 +54,17 @@
 
 - [Multi-Site Listener](https://docs.microsoft.com/en-us/azure/application-gateway/multiple-site-overview)
 
-- [ ] __configure application gateway__
+- [X] __configure application gateway__
 
   - [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/load-balance-web-traffic-with-application-gateway/index)
 
   - [Azure Docs](https://docs.microsoft.com/en-us/azure/application-gateway/configuration-overview)
 
-- [ ] __configure Azure Front Door service__
+- [X] __configure Azure Front Door service__
 
   - [Azure Docs](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-overview)
 
-- [ ] __configure Azure Traffic Manager__
+- [X] __configure Azure Traffic Manager__
 
   - [Learning Path](https://docs.microsoft.com/en-gb/learn/modules/distribute-load-with-traffic-manager/index)
 
